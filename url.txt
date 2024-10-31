@@ -1,0 +1,2 @@
+URL Model Deployment: https://huggingface.co/spaces/ashariksan9/model_cnn_deteksi_bags
+URL Dataset yang dipakai: https://www.kaggle.com/datasets/vencerlanz09/plastic-paper-garbage-bag-synthetic-images
